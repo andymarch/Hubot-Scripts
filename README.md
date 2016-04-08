@@ -1,2 +1,2 @@
 # Hubot-Scripts
-Collection of Hubot scripts for a tasks
+Collection of scripts for a tasks while working on Hubot in Rocket.Chat.
