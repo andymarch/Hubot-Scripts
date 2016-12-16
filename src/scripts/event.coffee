@@ -24,7 +24,7 @@ module.exports = (robot) ->
   #customise the response strings
   #preresponses are appended to the number of days to go
   preresponses = [
-    """not long now"""",
+    """not long now""",
     """keep waiting"""
   ]
   #postresponses are sent after the event has passed
